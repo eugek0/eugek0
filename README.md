@@ -5,7 +5,7 @@
 </p>
 <p>
   <img width="402.5" src="/languages.svg" alt="Languages" />
+  <img width="402.5" src="/people.svg" alt="People" />
   &nbsp;&nbsp;&nbsp;
   <img width="402.5" src="/code.svg" alt="Code" />
 </p>
-<img width="402.5" src="/people.svg" alt="People" />
