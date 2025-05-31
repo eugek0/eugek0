@@ -4,11 +4,8 @@
   <img width="402.5" src="/isocalendar.svg" alt="IsoCalendar" />
 </p>
 <p>
-  <p>
-    <img width="402.5" src="/languages.svg" alt="Languages" />
-    &nbsp;&nbsp;&nbsp;
-    <img width="402.5" src="/people.svg" alt="People" />
-  </p>
+  <img width="402.5" src="/languages.svg" alt="Languages" />
   &nbsp;&nbsp;&nbsp;
   <img width="402.5" src="/code.svg" alt="Code" />
 </p>
+<img width="402.5" src="/people.svg" alt="People" />
