@@ -1,1 +1,3 @@
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.svg)
+![People](/people.svg)
+![Languages](/languages.svg)
