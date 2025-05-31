@@ -42,3 +42,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: code.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_load: 400
