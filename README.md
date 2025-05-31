@@ -6,5 +6,6 @@
 <p>
   <img src="/languages.svg" alt="Languages" />
     &nbsp;&nbsp;&nbsp;
-  <img src="/people.svg" alt="People" />
+  <img src="/code.svg" alt="Code" />
 </p>
+<img src="/people.svg" alt="People" />
